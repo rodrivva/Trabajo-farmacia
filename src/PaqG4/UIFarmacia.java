@@ -1,3 +1,5 @@
+package PaqG4;
+
 import javax.swing.*;
 
 public class UIFarmacia extends JFrame{
